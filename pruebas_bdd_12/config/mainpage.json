@@ -1,0 +1,6 @@
+{
+  "pageTittle": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": ".app_logo"
+  }
+}
