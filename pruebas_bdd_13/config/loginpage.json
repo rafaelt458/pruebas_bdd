@@ -1,0 +1,18 @@
+{
+  "usernameField": {
+    "getFieldBy": "id",
+    "valueToFind": "user-name"
+  },
+  "passwordField": {
+    "getFieldBy": "id",
+    "valueToFind": "password"
+  },
+  "loginButton": {
+    "getFieldBy": "id",
+    "valueToFind": "login-button"
+  },
+  "errorMessage": {
+    "getFieldBy": "tagName",
+    "valueToFind": "h3"
+  }
+}
