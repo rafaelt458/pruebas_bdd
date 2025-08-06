@@ -1,0 +1,18 @@
+{
+  "pageTittle": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": ".app_logo"
+  },
+  "sauceLabsBackpack": {
+    "getFieldBy": "linkText",
+    "valueToFind": "Sauce Labs Backpack"
+  },
+  "sauceLabsOnesie": {
+    "getFieldBy": "linkText",
+    "valueToFind": "Sauce Labs Onesie"
+  },
+  "sauceLabsBikeLight": {
+    "getFieldBy": "linkText",
+    "valueToFind": "Sauce Labs Bike Light"
+  }
+}
