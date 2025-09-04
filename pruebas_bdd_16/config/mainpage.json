@@ -1,0 +1,26 @@
+{
+  "pageTittle": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": ".app_logo"
+  },
+  "orderDropdown": {
+    "getFieldBy": "tagName",
+    "valueToFind": "select"
+  },
+  "sauceLabsBackpack": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": "#item_4_title_link > div.inventory_item_name"
+  },
+  "sauceLabsOnesie": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": "#item_2_title_link > div.inventory_item_name"
+  },
+  "sauceLabsBikeLight": {
+    "getFieldBy": "cssSelector",
+    "valueToFind": "#item_0_title_link > div.inventory_item_name"
+  },
+  "firstElement": {
+    "getFieldBy": "xpath",
+    "valueToFind": "/html/body/div/div/div/div[2]/div/div/div/div[1]/div[2]/div[1]/a/div"
+  }
+}
