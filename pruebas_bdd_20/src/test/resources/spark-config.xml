@@ -1,0 +1,6 @@
+<configuration>
+    <theme>standard</theme>
+    <documentTitle>Reporte de Pruebas</documentTitle>
+    <reportName>Resultados de las pruebas de Sauce Demo</reportName>
+    <timeline>true</timeline>
+</configuration>
